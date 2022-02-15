@@ -1,1 +1,2 @@
-print("hello omar")
+print("hello Oᗰᗩᖇ")
+
